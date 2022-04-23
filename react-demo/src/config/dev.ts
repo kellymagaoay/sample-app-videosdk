@@ -6,5 +6,5 @@ export const devConfig = {
   topic: 'videosdk sample',
   name: `${getExploreName()}-${Math.floor(Math.random() * 1000)}`,
   password: '123',
-  signature: 'https://kelvsdksignature.herokuapp.com/',
+  signature: '',
 };
